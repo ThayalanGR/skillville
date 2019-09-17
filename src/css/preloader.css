@@ -1,0 +1,14 @@
+.preloader-wrapper {
+    width: 100vw;
+    height: 85vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: white;
+  }
+  
+  .master-logo{
+    width: 30rem;
+  }
+  

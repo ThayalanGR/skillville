@@ -1,0 +1,53 @@
+.auth-wrapper {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.auth-logo {
+  width: 250px;
+  margin-top: 50px;
+}
+
+.auth-container {
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto 20px auto;
+}
+
+.login-container {
+  margin-top: 120px;
+}
+.login-container-text {
+  margin-top: 20px;
+  color: #37b424;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.register-container {
+  margin-top: 80px;
+}
+
+.or-seperator {
+  margin-top: 200px;
+  font-size: 20px;
+  color: #000000;
+  font-weight: bold;
+}
+
+.custom-text-box {
+  margin-top: 20px;
+  border: none;
+  background: #f3f3f3;
+  height: 50px !important;
+  width: 300px;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 2px;
+  border-radius: 10px !important;
+}
+
